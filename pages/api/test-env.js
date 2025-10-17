@@ -1,1 +1,1 @@
-https://<dein-projektname>.vercel.app/api/test-env
+https://nfj-server.vercel.app/api/test-env
